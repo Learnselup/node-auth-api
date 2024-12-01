@@ -15,3 +15,4 @@ Update for day 4
 Update for day 16
 Update for day 21
 Update for day 47
+Update for day 0
